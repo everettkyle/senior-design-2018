@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/kyle/Desktop/dogsvscats-0.01-2conv-basic.model"
+all_model_checkpoint_paths: "/home/kyle/Desktop/dogsvscats-0.01-2conv-basic.model"
